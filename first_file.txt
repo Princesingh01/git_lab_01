@@ -6,4 +6,9 @@ hello
 thhis is prince
 singh
 
+
 git stash
+
+
+git cinflict
+
