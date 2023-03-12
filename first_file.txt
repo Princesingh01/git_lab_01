@@ -5,3 +5,6 @@ Isolating feature into different branch is a crucial practice for any serious de
 hello
 thhis is prince
 singh
+
+
+git cinflict
