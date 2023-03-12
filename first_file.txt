@@ -1,2 +1,7 @@
 this is first file for testing
 Isolating feature into different branch is a crucial practice for any serious developer
+
+
+hello
+thhis is prince
+singh
