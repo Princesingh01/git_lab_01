@@ -10,4 +10,4 @@ file. Writing such a file is feasible without being a Jenkins expert as the conf
 intuitively into code.
 
 
-I am prince kumar. i study to devops for 2 years.
+
