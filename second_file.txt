@@ -1,0 +1,13 @@
+Introduction
+
+Jenkins is a wonderful system for managing builds, and people love using its UI to configure jobs. Unfortunately,
+as the number of jobs grows, maintaining them becomes tedious, and the paradigm of using a UI falls apart. Additionally,
+the common pattern in this situation is to copy jobs to create new ones, these "children" have a habit of diverging from
+their original "template" and consequently it becomes difficult to maintain consistency between these jobs.
+
+The Job DSL plugin attempts to solve this problem by allowing jobs to be defined in a programmatic form in a human readable
+file. Writing such a file is feasible without being a Jenkins expert as the configuration from the web UI translates
+intuitively into code.
+
+
+
