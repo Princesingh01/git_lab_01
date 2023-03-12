@@ -1,0 +1,4 @@
+
+With HashiCorp Terraform, provisioning and security can be automated based on infrastructure and policy as code.
+Infrastructure and policies are codified, shared, managed, and executed within a workflow that is consistent across all
+infrastructure.
